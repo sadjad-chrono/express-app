@@ -1,0 +1,26 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "an express app to practice with argocd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sadjad-chrono/express-app.git"
+  },
+  "keywords": [
+    "express",
+    "argocd"
+  ],
+  "author": "Sadjad Tehranchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadjad-chrono/express-app/issues"
+  },
+  "homepage": "https://github.com/sadjad-chrono/express-app#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
