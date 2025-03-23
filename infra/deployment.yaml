@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: express-app
-          image: sadjadteh/express-app:latest
+          image: sadjadteh/express-app:v1.0.1
           ports:
             - containerPort: 3000
